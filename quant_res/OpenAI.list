@@ -1,2 +1,3 @@
 DOMAIN-SUFFIX, openai.com, PROXY
 DOMAIN-SUFFIX, ai.com, PROXY
+DOMAIN-SUFFIX, openaiapi-site.azureedge.net, PROXY
